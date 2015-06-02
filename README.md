@@ -2,4 +2,5 @@
 
 Projeto de exemplo usando AngularJS
 
-* Os fotnes contidos neste projeto são para fins educacionais.
+# Atenção!
+Os fontes contidos neste projeto são para fins educacionais.
