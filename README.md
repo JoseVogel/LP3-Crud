@@ -1,6 +1,5 @@
 # LP3-Crud
+Repositório contendo os fontes de um projeto crud utilizando o AngularJS.
 
-Projeto de exemplo usando AngularJS
-
-# Atenção!
-Os fontes contidos neste projeto são para fins educacionais.
+# Linguagem de Programação e Desenvolvimento de Software III
+Código fonte dos exemplos produzidos em sala de aula. Todos os fontes contidos neste projeto são para fins acadêmicos.
