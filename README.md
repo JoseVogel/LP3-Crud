@@ -1,4 +1,4 @@
-# LP3-Crud
+# LP3-Crud (Prática 02)
 Repositório contendo os fontes de um projeto crud utilizando o AngularJS.
 
 # Linguagem de Programação e Desenvolvimento de Software III
